@@ -9,19 +9,29 @@
 
     <Button
         android:id="@+id/button_toast"
+        android:background="@color/colorPrimary"
+        android:textColor="@android:color/white"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Toast" />
+        android:text="@string/button_label_toast" />
 
     <TextView
         android:id="@+id/show_count"
+        android:textSize="@dimen/count_text_size"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+        android:background="@color/myBackgroundColor"
+        android:gravity="center"
+        android:layout_weight="2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="0" />
+        android:text="@string/count_initial_value" />
 
     <Button
         android:id="@+id/button_count"
+        android:background="@color/colorPrimary"
+        android:textColor="@android:color/white"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Count" />
+        android:text="@string/button_label_count" />
 </LinearLayout>
