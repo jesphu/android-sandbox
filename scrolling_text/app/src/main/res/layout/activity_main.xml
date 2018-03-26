@@ -36,6 +36,7 @@
             android:id="@+id/article"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:padding="@dimen/padding_regular"
             android:autoLink="web"
             android:lineSpacingExtra="@dimen/line_spacing"
             android:text="@string/article_text" />

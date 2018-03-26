@@ -3,10 +3,10 @@
     <string name="article_title">Yoda Awakens?!?</string>
     <string name="article_subtitle">Plot twist in latest film!</string>
     <string name="article_text">
-        <i><b>What happened?! Scroll down to find out!\n \n</b>
+        <i><b>What happened?! Scroll down to find out!\n\n</b>
         Once you start down the dark path, forever will it dominate your destiny, consume you it will.\n
         Luminous beings are we, not this crude matter.\n
-        In a dark place we find ourselves, and a little more knowledge lights our way. \n
+        In a dark place we find ourselves, and a little more knowledge lights our way.\n
         Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering.\n
         <b>Patience you must have, my young padawan.\n</b>
         When nine hundred years old you reach, look as good you will not.\n
@@ -23,6 +23,6 @@
         Attachment leads to jealously. The shadow of greed, that is.\n
         <b>Do or do not, there is no try.\n</b></i>
         Link to plot twist in latest film, this is not an AD!\n
-        <b>100%</b> true! --> www.google.com/yoda_secrets
+        <b>100%</b> true! --> www.google.com/yoda_secrets\n
     </string>
 </resources>
