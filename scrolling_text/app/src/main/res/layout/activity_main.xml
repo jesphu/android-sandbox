@@ -29,14 +29,15 @@
 
     <ScrollView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
-        android:layout_below="@+id/article_subheading"
-    <TextView
-        android:id="@+id/article"
-        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:lineSpacingExtra="@dimen/line_spacing"
-        android:autoLink="web"
-        android:text="@string/article_text" />
+        android:layout_below="@+id/article_subheading">
+
+        <TextView
+            android:id="@+id/article"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:lineSpacingExtra="@dimen/line_spacing"
+            android:text="@string/article_text" />
     </ScrollView>
 </RelativeLayout>
