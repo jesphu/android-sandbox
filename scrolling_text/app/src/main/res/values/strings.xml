@@ -1,6 +1,28 @@
 <resources>
     <string name="app_name">Scrolling Text</string>
-    <string name="article_title">Article Title</string>
-    <string name="article_subtitle">Article Subtitle</string>
-    <string name="article_text">Article Text</string>
+    <string name="article_title">Yoda Awakens?!?</string>
+    <string name="article_subtitle">Plot twist in latest film!</string>
+    <string name="article_text">
+        <i><b>What happened?! Scroll down to find out!\n \n</b>
+        Once you start down the dark path, forever will it dominate your destiny, consume you it will.\n
+        Luminous beings are we, not this crude matter.\n
+        In a dark place we find ourselves, and a little more knowledge lights our way. \n
+        Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering.\n
+        <b>Patience you must have, my young padawan.\n</b>
+        When nine hundred years old you reach, look as good you will not.\n
+        Truly wonderful, the mind of a child is.\n
+        A Jedi uses the Force for knowledge and defense, never for attack.\n
+        Adventure. Excitement. A Jedi craves not these things.\n
+        Wars not make one great.\n
+        Clear your mind must be, if you are to find the villains behind this plot.\n
+        Always two there are, no more, no less. A master and an apprentice.\n
+        Always pass on what you have learned.\n
+        Mind what you have learned. Save you it can.\n
+        To answer power with power, the Jedi way this is not.\n
+        In this war, a danger there is, of losing who we are.\n
+        Attachment leads to jealously. The shadow of greed, that is.\n
+        <b>Do or do not, there is no try.\n</b></i>
+        Link to plot twist in latest film --> www.google.com/
+
+    </string>
 </resources>
