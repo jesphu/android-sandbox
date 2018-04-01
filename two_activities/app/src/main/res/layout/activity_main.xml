@@ -10,12 +10,22 @@
         android:id="@+id/button_main"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_marginBottom="29dp"
-        android:layout_marginEnd="29dp"
-        android:layout_marginRight="29dp"
-        android:text="@string/button_main"
-        android:onClick="launch_second_activity"/>
+        android:layout_alignTop="@+id/editText_main"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="21dp"
+        android:onClick="launch_second_activity"
+        android:text="@string/button_main" />
+
+    <EditText
+        android:id="@+id/editText_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="17dp"
+        android:layout_toLeftOf="@+id/button_main"
+        android:layout_toStartOf="@+id/button_main"
+        android:layout_margin="20sp"
+        android:hint="Enter Your Message Here" />
 </RelativeLayout>
