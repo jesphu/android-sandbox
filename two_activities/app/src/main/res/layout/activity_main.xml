@@ -6,6 +6,27 @@
     android:layout_height="match_parent"
     tools:context="com.wordpress.jesphu.twoactivities.MainActivity">
 
+    <TextView
+        android:id="@+id/text_header_reply"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_header_reply"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="bold"
+        android:padding="10dp"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="4dp"
+        android:visibility="invisible"/>
+
+    <TextView
+        android:id="@+id/text_message_reply"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_header_reply"
+        android:padding="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:visibility="invisible"/>
+
     <Button
         android:id="@+id/button_main"
         android:layout_width="wrap_content"
