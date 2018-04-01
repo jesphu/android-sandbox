@@ -13,6 +13,7 @@
         android:text="@string/text_header"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:textStyle="bold"
+        android:padding="10dp"
         tools:layout_editor_absoluteX="4dp"
         tools:layout_editor_absoluteY="4dp" />
 
@@ -21,6 +22,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/text_header"
+        android:padding="10dp"
         android:textAppearance="?android:attr/textAppearanceMedium"/>
 
     <Button
@@ -29,7 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_alignTop="@+id/editText_main"
+        android:layout_alignTop="@+id/editText_second"
         android:layout_marginEnd="21dp"
         android:layout_marginRight="21dp"
         android:onClick="return_reply"
