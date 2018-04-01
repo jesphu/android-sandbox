@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void launch_second_activity(View view) {
         Log.d(LOG_TAG, "Button clicked!");
-        Intent intent = new Intent(this, SecondActivity.class);
+        Intent intent = new Intent(this, SecondActivity.class); // Switching activities (from main to second).
         startActivity(intent);
     }
 }
