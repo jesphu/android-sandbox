@@ -27,5 +27,5 @@
         android:layout_toLeftOf="@+id/button_main"
         android:layout_toStartOf="@+id/button_main"
         android:layout_margin="20sp"
-        android:hint="Enter Your Message Here" />
+        android:hint="@string/editText_main" />
 </RelativeLayout>
